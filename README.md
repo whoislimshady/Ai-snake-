@@ -1,1 +1,1 @@
-# Ai-snake-
+# Ai-snake for fun
